@@ -39,7 +39,7 @@
 <h3 id="php">PHP</h3>
 
 - Videos
-  - **PT-BR*
+  - **PT-BR**
       * [Programação Funcional em PHP](https://www.youtube.com/watch?v=cts_NStWJ5Q)
   - **ENG**
 
