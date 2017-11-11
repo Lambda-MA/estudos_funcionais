@@ -1,11 +1,14 @@
 # Estudos Funcionais
-> Repositório com materiais de estudo sobre programação funcional em geral ou programação funcional em diversas linguagens. 
+> Repositório com materiais de estudo sobre programação funcional em diversas linguagens ou a parte mais teórica da programação funcional.
 
 * Linguagens específicas
     * [Coq](#coq)
     * [Haskell](#haskell)
     * [PHP](#php)
     * [Python](#python)
+* Teoria
+    - [Cálculo Lambda](#lambda)
+    - [Teoria dos Tipos](#type-theory)
 
 --------
 
@@ -15,6 +18,7 @@
 
 - Videos
   - **PT-BR**
+
   - **ENG**
       * [Gabriel Claramunt - Introduction to Coq - Part 1 of 2 - λC 2017](https://www.youtube.com/watch?v=L9XXh4gRi1M)
       * [Gabriel Claramunt - Introduction to Coq - Part 2 of 2 - λC 2017](https://www.youtube.com/watch?v=gvA6DfBZ1yI)
@@ -28,7 +32,9 @@
 
 - Videos
   - **PT-BR**
+      * [Programação Funcional com Haskell](https://www.youtube.com/playlist?list=PLYlU1pEvulHqVQ5ocB_SptHB4yIJ0WyfZ)
   - **ENG**
+      * [Aachen - Functional Programming with Haskell](https://www.youtube.com/playlist?list=PL2cqwPeM9PtNrjBUFVFB-CSrqeyvtbl2R)
 
 - Livros
   - **PT-BR**
@@ -49,3 +55,18 @@
 
 
 <h3 id="python">Python</h3>
+
+- Videos
+
+- Livros
+
+# Teoria
+
+<h3 id="lambda">Cálculo Lambda</h3>
+
+- Videos
+  - **PT-BR**
+  - **ENG**
+      * [Adam McCullough - Greek Classics: Lambda Calculus For Beginners - λC 2017](https://www.youtube.com/watch?v=-DPlj75YJR4)
+
+- Livros
