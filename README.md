@@ -56,6 +56,11 @@
 
 <h3 id="python">Python</h3>
 
+- Artigos (*helpers*)
+  - **PT-BR**
+      * [map(), reduce(), filter() e lambda](https://pythonhelp.wordpress.com/2012/05/13/map-reduce-filter-e-lambda/)
+  - **ENG**
+      
 - Videos
 
 - Livros
