@@ -62,6 +62,9 @@
   - **ENG**
       
 - Videos
+  - **PT-BR**
+  - **ENG**
+      * [Daniel Kirsch - Functional Programming in Python](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
 
 - Livros
 
