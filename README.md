@@ -4,8 +4,10 @@
 * Linguagens específicas
     * [Coq](#coq)
     * [Elm](#elm)
+    * [Erlang](#erlang)
     * [Haskell](#haskell)
     * [Idris](#idris)
+    * [Javascript](#javascript)
     * [PHP](#php)
     * [Python](#python)
 * Teoria
@@ -49,12 +51,16 @@
 
 <h3 id="haskell">Haskell</h3>
 
+- Cursos
+  - ENG
+      * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
+
 - Videos
   - **PT-BR**
       * [Programação Funcional com Haskell](https://www.youtube.com/playlist?list=PLYlU1pEvulHqVQ5ocB_SptHB4yIJ0WyfZ)
   - **ENG**
       * [Aachen - Functional Programming with Haskell](https://www.youtube.com/playlist?list=PL2cqwPeM9PtNrjBUFVFB-CSrqeyvtbl2R)
-      * [Bartosz Milewski - Parallel and Concurrent Haskell](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)      
+      * [Bartosz Milewski - Parallel and Concurrent Haskell](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 
 - Livros
   - **PT-BR**
@@ -68,6 +74,13 @@
   - **PT-BR**
   - **ENG**
       * [Brian McKenna - Write Some Idris](https://www.youtube.com/watch?v=XUMkVPU4XCI)
+
+
+<h3 id="javascript"> Javascript </h3>
+- Videos
+  - **PT-BR**
+  - **ENG**
+      * [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=aSZ0X6e05XA)
 
 <h3 id="php">PHP</h3>
 
