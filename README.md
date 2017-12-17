@@ -76,13 +76,12 @@
       * [Brian McKenna - Write Some Idris](https://www.youtube.com/watch?v=XUMkVPU4XCI)
 
 
-<h3 id="javascript"> Javascript </h3>
+<h3 id="javascript">Javascript</h3>
+
 - Videos
   - **PT-BR**
   - **ENG**
       * [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=aSZ0X6e05XA)
-
-<h3 id="php">PHP</h3>
 
 - Videos
   - **PT-BR**
