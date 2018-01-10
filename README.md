@@ -55,10 +55,11 @@
   - ENG
       * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 
-- Videos
+- Videos\Palestras
   - **PT-BR**
       * [Programação Funcional com Haskell](https://www.youtube.com/playlist?list=PLYlU1pEvulHqVQ5ocB_SptHB4yIJ0WyfZ)
   - **ENG**
+      ** [Fun never stops. Introduction to Haskell Programming language by Paul Szulc](https://www.youtube.com/watch?v=1jZ7j21g028)
       * [Aachen - Functional Programming with Haskell](https://www.youtube.com/playlist?list=PL2cqwPeM9PtNrjBUFVFB-CSrqeyvtbl2R)
       * [Bartosz Milewski - Parallel and Concurrent Haskell](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 
@@ -108,6 +109,8 @@
   - **ENG**
       * [Daniel Kirsch - Functional Programming in Python](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
       * [Calen Pennington Immutable Programming Writing Functional Python](https://www.youtube.com/watch?v=_OLEVvjrIj8)
+      * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 1 of 2 - λC 2017 ](https://www.youtube.com/watch?v=Px4oM_ejW64)
+      * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 2 of 2 - λC 2017 ](https://www.youtube.com/watch?v=2RYAGmHmmF0)
 
 - Livros
 
