@@ -65,6 +65,7 @@
 
 - Livros
   - **PT-BR**
+      + [Aprender Haskell será um grande bem para você!](http://haskell.tailorfontela.com.br/)
   - **ENG**
       * [Real World Haskell](http://book.realworldhaskell.org/read/)
       * [Learn You a Haskell For Greater Good!](http://learnyouahaskell.com/chapters)
