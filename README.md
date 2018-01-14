@@ -58,6 +58,7 @@
 - Videos\Palestras
   - **PT-BR**
       * [Programação Funcional com Haskell](https://www.youtube.com/playlist?list=PLYlU1pEvulHqVQ5ocB_SptHB4yIJ0WyfZ)
+      * [Marcelo Camargo - Monâdas, monoides e functores](https://www.youtube.com/watch?v=btHaFnzd2JA)
   - **ENG**
       * [Fun never stops. Introduction to Haskell Programming language by Paul Szulc](https://www.youtube.com/watch?v=1jZ7j21g028)
       * [Aachen - Functional Programming with Haskell](https://www.youtube.com/playlist?list=PL2cqwPeM9PtNrjBUFVFB-CSrqeyvtbl2R)
