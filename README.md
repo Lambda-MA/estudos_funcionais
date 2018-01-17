@@ -47,6 +47,9 @@
   - **PT-BR**
   - **ENG**
       * [LambdaConf 2015 - Introduction to Erlang Steven Proctor](https://www.youtube.com/watch?v=0YpCBRJJtPg)
+- Livros
+  - **ENG**
+    + [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/content)
 
 
 <h3 id="haskell">Haskell</h3>
@@ -70,6 +73,8 @@
   - **ENG**
       * [Real World Haskell](http://book.realworldhaskell.org/read/)
       * [Learn You a Haskell For Greater Good!](http://learnyouahaskell.com/chapters)
+      + [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+      + [CIS 194: Introduction to Haskell (2016)](http://www.seas.upenn.edu/~cis194/fall16/)
 
 <h3 id="idris">Idris</h3>
 
