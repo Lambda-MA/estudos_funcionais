@@ -91,6 +91,9 @@
   - **ENG**
       * [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=aSZ0X6e05XA)
 
+- Livros
+  - **ENG**
+    - [Professor Frisby's mostly adequate guide to FP (in javascript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 
 <h3 id="php">PHP</h3>
 
@@ -110,7 +113,7 @@
   - **PT-BR**
       * [map(), reduce(), filter() e lambda](https://pythonhelp.wordpress.com/2012/05/13/map-reduce-filter-e-lambda/)
   - **ENG**
-      
+
 - Videos
   - **PT-BR**
   - **ENG**
@@ -141,4 +144,3 @@
       * [Bartosz Milewski - Category Theory II](https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
 
 <h3 id="type-theory">Teoria dos Tipos</h3>
-
