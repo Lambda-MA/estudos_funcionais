@@ -123,6 +123,11 @@
   - **PT-BR**
   - **ENG**
 
+- Artigos
+  - **PT-BR**
+      * [Functional Programming in PHP](http://www.phptherightway.com/pages/Functional-Programming.html)
+  - **ENG**
+      * [Programação Funcional em PHP](http://br.phptherightway.com/pages/Functional-Programming.html)
 
 <h3 id="python">Python</h3>
 
