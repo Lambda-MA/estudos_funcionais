@@ -7,6 +7,7 @@
     * [Erlang](#erlang)
     * [Haskell](#haskell)
     * [Idris](#idris)
+    * [C++](#cpp)
     * [Javascript](#javascript)
     * [PHP](#php)
     * [Python](#python)
@@ -84,6 +85,22 @@
       * [Brian McKenna - Write Some Idris](https://www.youtube.com/watch?v=XUMkVPU4XCI)
 
 
+<h3 id="cpp">C++</h3>
+
+- Videos
+  - **PT-BR**
+  - **ENG**
+      * [Practical Functional Programming in C++](https://www.youtube.com/watch?v=iVzHb54MliM)
+
+- Livros
+  - **PT-BR**
+  - **ENG**
+
+- Artigos
+  - **PT-BR**
+  - **ENG**
+      * [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/)
+
 <h3 id="javascript">Javascript</h3>
 
 - Videos
@@ -106,6 +123,11 @@
   - **PT-BR**
   - **ENG**
 
+- Artigos
+  - **PT-BR**
+      * [Functional Programming in PHP](http://www.phptherightway.com/pages/Functional-Programming.html)
+  - **ENG**
+      * [Programação Funcional em PHP](http://br.phptherightway.com/pages/Functional-Programming.html)
 
 <h3 id="python">Python</h3>
 
