@@ -1,7 +1,7 @@
 # Exercícios sobre OCaml
 > Estes exercícios são do Curso aberto Introduction to Functional Programming in OCaml, oferecido pela Université Paris Diderot
 
-##  Using fold to produce lists (30/30 points)
+##  Using fold to produce lists
 
 The idea of this exercise is to write functions that iterate on lists, using the fold_left and fold_right functions from the List module.
 
