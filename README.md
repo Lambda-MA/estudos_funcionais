@@ -11,6 +11,7 @@
     * [Javascript](#javascript)
     * [PHP](#php)
     * [Python](#python)
+    * [Scala](#scala)
 * Teoria
     - [Cálculo Lambda](#lambda)
     - [Teoria dos Tipos](#type-theory)
@@ -143,6 +144,9 @@
       * [Calen Pennington Immutable Programming Writing Functional Python](https://www.youtube.com/watch?v=_OLEVvjrIj8)
       * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 1 of 2 - λC 2017 ](https://www.youtube.com/watch?v=Px4oM_ejW64)
       * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 2 of 2 - λC 2017 ](https://www.youtube.com/watch?v=2RYAGmHmmF0)
+      
+      <h3 id="scala">Scala</h3>
+      
 
 - Livros
 
@@ -155,6 +159,9 @@
   - **ENG**
       * [Adam McCullough - Greek Classics: Lambda Calculus For Beginners - λC 2017](https://www.youtube.com/watch?v=-DPlj75YJR4)
 
+<h3> Data Strucutres </h3>
+
+* [RRB-Trees: Efficient Immutable Vectors](https://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
 - Livros
 
 <h3 id="category-theory">Teoria das Categorias</h3>
