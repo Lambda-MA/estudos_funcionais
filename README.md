@@ -164,6 +164,8 @@
 
 - [How functional programming mattered](https://academic.oup.com/nsr/article/2/3/349/1427872)
 - [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1617/L28/materials.html)
+- [Matemática Fundacional para Computação](http://www.tsouanas.org/fmcbook/)
+- [The Carnap Book](https://carnap.io/book)
 
 <h3 id="lambda">Cálculo Lambda</h3>
 
