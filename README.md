@@ -16,6 +16,8 @@
     - [Cálculo Lambda](#lambda)
     - [Teoria dos Tipos](#type-theory)
     - [Teoria das Categorias](#category-theory)
+ * Outras coleções
+    - [coleção extensa sobre programação funcional](https://github.com/xgrommx/awesome-functional-programming)
 
 --------
 
@@ -59,12 +61,16 @@
 - Cursos
   - ENG
       * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
+      * [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/4/steps/334917)
+      * [Computational Formal Semantics with Haskell](https://people.ucsc.edu/~abrsvn/category/teaching.html)
+)
 
 - Videos\Palestras
   - **PT-BR**
       * [Programação Funcional com Haskell](https://www.youtube.com/playlist?list=PLYlU1pEvulHqVQ5ocB_SptHB4yIJ0WyfZ)
       * [Marcelo Camargo - Monâdas, monoides e functores](https://www.youtube.com/watch?v=btHaFnzd2JA)
   - **ENG**
+      * [What I Wish I Knew When Learning Haskell 2.3 ( Stephen Diehl )](http://dev.stephendiehl.com/hask/)
       * [Fun never stops. Introduction to Haskell Programming language by Paul Szulc](https://www.youtube.com/watch?v=1jZ7j21g028)
       * [Aachen - Functional Programming with Haskell](https://www.youtube.com/playlist?list=PL2cqwPeM9PtNrjBUFVFB-CSrqeyvtbl2R)
       * [Bartosz Milewski - Parallel and Concurrent Haskell](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
@@ -145,12 +151,19 @@
       * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 1 of 2 - λC 2017 ](https://www.youtube.com/watch?v=Px4oM_ejW64)
       * [Reuben Cummings - A Functional Programming Approach to Data Processing in Python - 2 of 2 - λC 2017 ](https://www.youtube.com/watch?v=2RYAGmHmmF0)
       
-      <h3 id="scala">Scala</h3>
+ <h3 id="scala">Scala</h3>
+ 
+ - [Scala tutorial](https://www.tutorialspoint.com/scala/index.htm)
       
 
 - Livros
 
 # Teoria
+
+<h3 id="fundamentacao">Fundamentação</h3>
+
+- [How functional programming mattered](https://academic.oup.com/nsr/article/2/3/349/1427872)
+- [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1617/L28/materials.html)
 
 <h3 id="lambda">Cálculo Lambda</h3>
 
@@ -166,10 +179,16 @@
 
 <h3 id="category-theory">Teoria das Categorias</h3>
 
+- Texto
+   * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+   * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+
 - Videos
   - **PT-BR**
   - **ENG**
       * [Bartosz Milewski - Category Theory I](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
       * [Bartosz Milewski - Category Theory II](https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
+      
 
 <h3 id="type-theory">Teoria dos Tipos</h3>
