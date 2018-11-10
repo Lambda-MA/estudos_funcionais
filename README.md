@@ -154,7 +154,7 @@
  <h3 id="scala">Scala</h3>
  
  - [Scala tutorial](https://www.tutorialspoint.com/scala/index.htm)
-      
+ - [Tutorial Cat](https://github.com/DanielaSfregola/tutorial-cat)
 
 - Livros
 
@@ -189,6 +189,9 @@
   - **ENG**
       * [Bartosz Milewski - Category Theory I](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
       * [Bartosz Milewski - Category Theory II](https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
-      
+      * [A Pragmatic Introduction to Category Theory—Daniela Sfregola](https://youtu.be/Ss149MsZluI?t=2273s)
 
 <h3 id="type-theory">Teoria dos Tipos</h3>
+
+   - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
+   
