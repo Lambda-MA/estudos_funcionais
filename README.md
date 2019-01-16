@@ -12,6 +12,7 @@
     * [PHP](#php)
     * [Python](#python)
     * [Scala](#scala)
+    * [Ocaml](#ocaml)
 * Teoria
     - [Cálculo Lambda](#lambda)
     - [Teoria dos Tipos](#type-theory)
@@ -155,8 +156,24 @@
  
  - [Scala tutorial](https://www.tutorialspoint.com/scala/index.htm)
  - [Tutorial Cat](https://github.com/DanielaSfregola/tutorial-cat)
+ - http://joelabrahamsson.com/programming/scala/
+- https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html
+- http://scalatutorials.com/tour/interactive_tour_of_scala_operators_are_methods.html
+- https://www.youtube.com/watch?v=DxrLPZD1Hxw&feature=youtu.be
 
-- Livros
+
+ <h3 id="ocaml">Ocaml</h3>
+ 
+ - Livros
+   * [Real World Ocaml](https://v1.realworldocaml.org/v1/en/html/index.html)
+   
+<h3 id="purescript">PureScript</h3>
+
+- http://try.purescript.org/?backend=behaviors&session=80b26002-69d8-27ea-ac9a-3d4f965d06b5
+
+<h3 id="racket">Racket</h3>
+
+-[How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/index.html)
 
 # Teoria
 
