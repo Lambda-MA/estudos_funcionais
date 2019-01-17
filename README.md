@@ -13,6 +13,9 @@
     * [Python](#python)
     * [Scala](#scala)
     * [Ocaml](#ocaml)
+    * [Purescript](#purescript)
+    * [Racket](#racket)
+    * [Clojure](#clojure)
 * Teoria
     - [Cálculo Lambda](#lambda)
     - [Teoria dos Tipos](#type-theory)
@@ -174,6 +177,15 @@
 <h3 id="racket">Racket</h3>
 
 -[How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/index.html)
+
+ <h3 id="ocaml">Clojure</h3>
+ 
+- https://github.com/yieldbot/flambo
+- http://practicalli.github.io/clojure/
+- https://learnxinyminutes.com/docs/pt-br/clojure-pt/
+- https://www.youtube.com/watch?v=ciGyHkDuPAE&feature=youtu.be
+- https://programming-pages.com/2012/01/16/recursion-in-clojure/
+- http://www.onyxplatform.org/learn/
 
 # Teoria
 
