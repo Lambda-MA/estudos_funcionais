@@ -16,6 +16,7 @@
     * [Purescript](#purescript)
     * [Racket](#racket)
     * [Clojure](#clojure)
+    * [Elixir](#elixir)
 * Teoria
     - [Cálculo Lambda](#lambda)
     - [Teoria dos Tipos](#type-theory)
@@ -186,6 +187,32 @@
 - https://www.youtube.com/watch?v=ciGyHkDuPAE&feature=youtu.be
 - https://programming-pages.com/2012/01/16/recursion-in-clojure/
 - http://www.onyxplatform.org/learn/
+
+<h3 id="elixir">Elixir</h3>
+
+- Livros
+
+   - [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
+   - [Elixir in Action](https://www.manning.com/books/elixir-in-action)
+   - [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
+   - [The Little Elixir and OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+   - [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
+
+
+- Comunidades
+
+   - [Elixir Forum](https://elixirforum.com)
+   - [Elixir in Slack](https://elixir-slackin.herokuapp.com)
+
+- Cursos
+
+   - [Elixir School](https://elixirschool.com/pt/).
+
+- Sites
+
+   - [Site da linguagem](https://elixir-lang.org/)
+   - [Forum](https://elixirforum.com/)
+   - [Github](https://github.com/elixir-lang/elixir)
 
 # Teoria
 
